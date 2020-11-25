@@ -1,2 +1,2 @@
-# musicplayerapp
+# musicplayer
 ödev
